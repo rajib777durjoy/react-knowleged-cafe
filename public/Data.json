@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "cover_title": "Connection Across Borders",
+      "timeing_duration": "Instant",
+      "description": "Social media enables people to connect with friends and family across geographical distances in real-time."
+    },
+    {
+      "id": 2,
+      "cover_title": "Access to Information",
+      "timeing_duration": "Continuous",
+      "description": "It provides access to news, trends, and educational content, helping users stay informed on various topics."
+    },
+    {
+      "id": 3,
+      "cover_title": "Professional Networking",
+      "timeing_duration": "Ongoing",
+      "description": "Platforms like LinkedIn facilitate career growth and professional networking by connecting users with potential employers and colleagues."
+    }
+    
+  ]
